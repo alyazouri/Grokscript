@@ -2,9 +2,6 @@
 var MATCH_JO = "SOCKS 213.186.179.175:43603"; // Changed to SOCKS5 for better UDP support and potentially lower ping
 
 var LOBBY_POOL = [
-  "SOCKS 212.35.66.45:8085",
-  "SOCKS 212.35.66.45:8181",
-  "SOCKS 46.185.131.218:443",
   "SOCKS 213.186.179.175:61903", // Added low-latency SOCKS5 proxies
   "SOCKS 213.186.179.175:54124",
   "SOCKS 213.186.179.175:59624",
